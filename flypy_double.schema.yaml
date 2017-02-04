@@ -65,3 +65,6 @@ key_binder:
         
 recognizer:
   import_preset: default
+
+menu:
+  page_size: 3

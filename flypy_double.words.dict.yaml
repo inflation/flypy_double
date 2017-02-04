@@ -6,7 +6,7 @@ version: "2016.11.23"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-阿爸	aa ba	1阿坝	aa b	1
+阿坝	aa b	1
 阿爸	aa ba	1
 嗷嗷待哺	a a d b	1
 阿哥	aa ge	1
